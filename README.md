@@ -1,6 +1,6 @@
 - 👋 Hi, I’m **@sujeong-ko**
 - 👀 I’m interested in **Frontend Developing**
-- 🌱 I’m currently learning ... **JavaScript, React.js**
+- 🌱 I’m currently learning ... **JavaScript, React.js, Node.js**
 - 📫 Feedback is always WELCOME!
 
 <!---
