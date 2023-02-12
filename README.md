@@ -11,6 +11,8 @@
 
 엘리스 SW 엔지니어 3기 _2022.09.12 ~ 2022.12.31_
 
+[✨Portfolio](https://sujeongko.notion.site/Sujeong-Ko-s-Portfolio-26bcd42e0f0c4137bce8787a117e449f)
+
 <!---
 sujeong-ko/sujeong-ko is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
